@@ -1,12 +1,12 @@
 # rohinikarri03 — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-11-26
+> Certified by TechMonster · Profile updated 2026-11-28
 
 ## Tracks
 
 | Track | Progress | Status | Detail |
 |---|---|---|---|
-| Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
+| Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🟡 Needs a Nudge | [→ Full breakdown](./python-core/README.md) |
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
 | Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 
